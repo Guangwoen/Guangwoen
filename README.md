@@ -1,7 +1,8 @@
-### ECNUer
+### ECNUer 💩
 
-## 纯纯的一个菜鸟 🐖
+## 纯纯的一个菜鸟 🐖🐖
 
+# 梦想是用最烂的代码装最牛的B 😑😑😑
 <!--
 **Guangwoen/Guangwoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
